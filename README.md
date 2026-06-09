@@ -37,7 +37,8 @@ This project follows a structured verification approach:
 - SystemVerilog HDL
 - EDA Playground (simulation platform)
 
----
+## 📊 Waveform
+![FIFO Waveform](sync_fifo_waveform.png)
 
 ## 📌 Note
 This project was developed and verified using EDA Playground only.
